@@ -1,0 +1,115 @@
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5%;
+    background-color: dimgrey;
+    color: white;
+}
+.body-container {
+    padding: 0%;
+    margin: 0%;
+    background-color: grey;
+}
+.main-new-container {
+    border-radius: 8%;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 2%;
+    width: 30%;
+    background-color: darkslategrey; 
+}
+.default-text {
+    color: whitesmoke;
+}
+.main-new-img {
+    border-radius: 8%;
+    width: 100%;
+}
+.general-new-container {
+    border-radius: 8%;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 2%;
+    width: 20%;
+    background-color: darkslategrey;
+}
+.general-new-img {
+    border-radius: 8%;
+    width: 100%;
+}
+.news-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: dimgray;
+    padding: 2%;
+    border-radius: 8%;
+    margin: 5%;
+}
+.footer-container {
+    width: 100%;
+    display: flex;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    justify-content: center;
+    align-items: center;
+    background-color: darkslategray;
+}
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+    line-height: 0%;
+}
+.profile-img {
+    width: 10%;
+    border: 2px solid black;
+    margin-right: 5%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.column-hours {
+    width: 10%;
+    border: 1px solid white;
+    background-color: darkslategrey;
+    color: white;
+}
+.column-day {
+    width: 10%;
+    border: 1px solid white;
+    background-color: darkolivegreen;
+    color: white;
+}
+.column-hour {
+    text-align: center;
+    vertical-align: middle;
+    width: 10%;
+    border: 1px solid white;
+    background-color: darkcyan;
+    color: white;
+}
+.column-subject {
+    text-align: center;
+    vertical-align: middle;
+    width: 10%;
+    border: 1px solid white;
+    background-color: darkgrey;
+    color: white;
+}
+.column-subject-ocupped {
+    text-align: center;
+    vertical-align: middle;
+    width: 10%;
+    border: 1px solid white;
+    background-color: forestgreen;
+    color: white;
+}
+.schedule-container {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
+
