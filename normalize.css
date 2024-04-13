@@ -112,4 +112,18 @@
     margin-right: 10%;
     width: 80%;
 }
+.new-container {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 2.5%;
+    background-color: darkslategrey;
+    border-radius: 8%;
+    margin-left:10%;
+    margin-right:10%;
+}	
+.new-img {
+    border-radius: 8%;
+    width: 50%;
+}
 
